@@ -1,0 +1,25 @@
+.root{
+    max-width: 375;
+    background: rgba(0,0,0,0.3);
+}
+.media{
+    height: 600;
+}
+.title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    color: white;
+    font-family: 'Gugi, cursive';
+}
+.description{
+    color: white;
+}
+.cardWrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-top: 30vh;
+}

@@ -1,0 +1,19 @@
+.bulletPoint{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    margin-top: 10vmin;
+    padding-right: 25px;
+    padding-left: 25px;
+
+}
+
+.caption__style{
+    font-size: 6rem;
+}
+.description__style{
+    text-align: center;
+    font-size: 2rem;
+}
