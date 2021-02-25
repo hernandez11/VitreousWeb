@@ -1,6 +1,5 @@
 .app{
-    /* background-image: url('https://images.unsplash.com/photo-1582721667141-36bbae3d5a23?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1234&q=80'); */
-    background-image: url('https://images-ext-2.discordapp.net/external/0wUQ98gibekGRh6kIcma7iaiaBwXHVzJY1PZwojWkrY/%3Fixid%3DMXwxMjA3fDB8MHxzZWFyY2h8MTF8fGxlYXJuaW5nfGVufDB8MXwwfA%253D%253D%26ixlib%3Drb-1.2.1%26auto%3Dformat%26fit%3Dcrop%26w%3D900%26q%3D60/https/images.unsplash.com/photo-1584697964038-28e16a2b6a3a?width=830&height=1245');
+    background: url(school.jpg);
     min-height: 100vh;
     background-repeat: none;
     background-size: cover;
